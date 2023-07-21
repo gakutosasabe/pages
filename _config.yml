@@ -29,9 +29,9 @@ baseurl: /pages/ # the subpath of your site, e.g. /blog
 url: https://gakutosasabe.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-
+collections: [sections]
 # Build settings
-theme: minima
+theme: jekyll-theme-prologue
 plugins:
   - jekyll-feed
 
