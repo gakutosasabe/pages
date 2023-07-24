@@ -31,7 +31,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 collections: [sections]
 # Build settings
-theme: jekyll-theme-prologue
+# theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-feed
 
