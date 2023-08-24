@@ -1,22 +1,43 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: About Me
+subtitle: my introdution
 layout: "page"
-icon: fa-book
+icon: fa-icon
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+<a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+# Personal Profile
+GAKUTO SASABE was born in Japan, in 1992. He received the B.E. degree in electrical and electronic engineering.from the Tokyo University of
+Agriculture and Technology, and the M.E. degreein information technology from the Tokyo Institute of Technology, Tokyo, Japan, in 2018, un‑
+der the supervision of Prof. Yasuhiro Miyake. After working on the development of the delivery of the Auto dish‑serving system as a Robotics
+Technician, he is currently involved in the development of semiconductor manufacturing equipment as a Software Engineer. He is interested in
+augmenting human capabilities using technologies such as AR, VR and electrical engineering, as well as insights from cognitive psychology and
+human‑computer interaction.
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+# Interests
+## Reserch
+Human Augmentation, Human Computer Interaction ,cognitive phycology,ghost engineering, Embodied cognition, AR/VR/MR
+## Maker
+On weekends, he gathers with company volunteers and engages in maker activities, including the creation of body augmentation
+devices. They also participate in Makers Faire twice a year.
+
+# Education
+## Apr 2016 - Mar 2018
+- MASTER OF ENGINEERING, School of Computing, Tokyo Institute of Technology, Tokyo, Japan
+- Supervisor: Prof. Yoshihiro Miyake
+## Apr 2011 - May 2016
+- BACHELOR OF ENGINEERING, Department of Electrical and Electronic Engineering, Tokyo University of Agriculture and Technology, Tokyo, Japan
+## Apr 2008 - Mar 2011
+- High School, Hamamatsu-Nishi Senior and Junior High Schools, Shizuoka, Japan
+
+# Work Experience
+
+# University Projects
+
+# Skills
+
+# Achivements
+
+# Publications
