@@ -98,6 +98,7 @@ Fundamental Information Technology Engineer Examination, Applied Information Tec
 - Spatiotemporal Gait Guidance Using Audiovisual Cues of Synchronized Walking Avatar in Augmented Reality
   - Dane A. L. Miller, Taiki Ogata, Gakuto Sasabe, Liang Shan, Nozomi Tsumura, Yoshihiro Miyake
   - IEEE Access 10 (2022) pp. 90498–90506. 2022
+
 ### CONFERENCE PRESANTATiONS
 - Development of a device that automatically adjusts the gain of specific keywords that appear in speech.
   - Gakuto Sasabe, Shunichi Amano 
