@@ -8,7 +8,7 @@ order: 3
 
 <a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
 
-## _Personal Profile_
+## __Personal Profile__
 GAKUTO SASABE was born in Japan, in 1992. He received the B.E. degree in electrical and electronic engineering.from the Tokyo University of
 Agriculture and Technology, and the M.E. degreein information technology from the Tokyo Institute of Technology, Tokyo, Japan, in 2018, un‑
 der the supervision of Prof. Yasuhiro Miyake. After working on the development of the delivery of the Auto dish‑serving system as a Robotics
@@ -16,7 +16,7 @@ Technician, he is currently involved in the development of semiconductor manufac
 augmenting human capabilities using technologies such as AR, VR and electrical engineering, as well as insights from cognitive psychology and
 human‑computer interaction.
 
-## _Interests_
+## __Interests__
 
 ### Reserch
 Human Augmentation, Human Computer Interaction ,cognitive phycology,ghost engineering, Embodied cognition, AR/VR/MR
@@ -25,7 +25,7 @@ Human Augmentation, Human Computer Interaction ,cognitive phycology,ghost engine
 On weekends, he gathers with company volunteers and engages in maker activities, including the creation of body augmentation
 devices. They also participate in Makers Faire twice a year.
 
-## _Education_
+## __Education__
 
 ### Apr 2016 - Mar 2018
 - MASTER OF ENGINEERING, School of Computing, Tokyo Institute of Technology, Tokyo, Japan
@@ -38,7 +38,7 @@ devices. They also participate in Makers Faire twice a year.
 ### Apr 2008 - Mar 2011
 - High School, Hamamatsu-Nishi Senior and Junior High Schools, Shizuoka, Japan
 
-## _Work Experience_
+## __Work Experience__
 
 ### Apr 2018 - Dec 2023
 #### Panasonic Connect Co., Ltd.Osaka, Japan
@@ -53,7 +53,7 @@ devices. They also participate in Makers Faire twice a year.
 - Technical Skills: C#, VB.NET, PLC programming, TwinCAT, UML, Object oriented design, UI design, Subversion, AdobeXD, Git, Jira, Markdown
 - Soft Skills: Teamwork, Time Management, Communication, Presentation skills.
 
-## _University Projects_
+## __University Projects__
 ### Increasing walking stride and speed by synchronization with avatar walking using mixed reality
 #### School of Computing, Tokyo Institute of Technology
 ##### Apr 2016 - Apr 2018
@@ -76,7 +76,7 @@ devices. They also participate in Makers Faire twice a year.
 - Technical Skills: C++, Machine learning, Image recognition, Latex
 - Soft Skills: Time Management, Teamwork, Presentation skills, Report writing.
 
-## _Skills_
+## __Skills__
 ### Programming
 Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.), R, CSharp, Unity, OpenCV, Javascript, Arduino, PLC, TwinCAT
 
@@ -89,6 +89,19 @@ Time Management, Teamwork, Problem‑solving, Documentation, Presentation, UI de
 ### Qualification
 Fundamental Information Technology Engineer Examination, Applied Information Technology Engineer Examination
 
-## _Achivements_
+## __Achivements__
+- 2019 __Sponser Award__, GUGEN 2019(Hardware Contest)
+- 2018 __CNS Golden Award__, CNS Golden Award 
 
-## _Publications_
+## __Publications__
+### JOURNAL ARTICLES
+- Spatiotemporal Gait Guidance Using Audiovisual Cues of Synchronized Walking Avatar in Augmented Reality
+  - Dane A. L. Miller, Taiki Ogata, Gakuto Sasabe, Liang Shan, Nozomi Tsumura, Yoshihiro Miyake
+  - IEEE Access 10 (2022) pp. 90498–90506. 2022
+### CONFERENCE PRESANTATiONS
+- Development of a device that automatically adjusts the gain of specific keywords that appear in speech.
+  - Gakuto Sasabe, Shunichi Amano 
+  - 23th Society of Instrument and Control Engineers System Integration Division Lecture (SI 2022), 2022, Chiba, Japan
+- Walking assist system utilizing the mirroring effect of visual information by mixed reality
+  - Gakuto Sasabe, Yoshihiro Miyake
+  - 30th SICE Symposium on Decentralized Autonomous Systems, 2018, Aichi, Japan
