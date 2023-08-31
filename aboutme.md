@@ -1,8 +1,7 @@
 ---
-title: About Me
-subtitle: my introdution
+title: Gakuto Sasabe
 layout: "page"
-icon: fa-icon
+icon: fa-user
 order: 3
 ---
 
