@@ -1,5 +1,5 @@
 ---
-title: Gakuto Sasabe
+title: About me
 layout: "page"
 icon: fa-user
 order: 3
