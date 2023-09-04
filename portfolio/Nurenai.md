@@ -1,7 +1,7 @@
 ---
 title: Nurenai
 layout: portfolio
-permalink: /portfolio/Nureni
+permalink: /portfolio/Nurenai
 hide : true
 ---
 ## Test
