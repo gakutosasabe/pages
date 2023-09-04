@@ -1,6 +1,6 @@
 ---
 title: Nurenai
-layout: portfolio
+layout: page
 permalink: /portfolio/Nurenai
 hide : true
 ---
