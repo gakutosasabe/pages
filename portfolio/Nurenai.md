@@ -1,5 +1,5 @@
 ---
-title: About me
-layout: "page"
+title: Nurenai
+layout: portfolio
 ---
 ## Test
