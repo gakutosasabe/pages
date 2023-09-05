@@ -11,14 +11,15 @@ hide : true
 This is a shooting game device in which both adults and children pretend to be ninjas and throw invisible shurikens at each other. When you point the kunai device at the enemy and make a motion to throw shuriken, you can damage the enemy's device. You win when you reduce the enemy device's health to zero. You can play in various game modes such as individual, team and shogun battles.
 
 
+### Game System
 ![Alt text](image/device.png)
 
-### KUNAI DEVICE
+#### KUNAI Device
 This device is capable of detecting the motion of throwing a Shuriken and firing and receiving infrared rays.
 It is equipped with 34 full-color LEDs for status indication, a vibrator, and a speaker to provide a realistic experience.
 It is a new type of device that condenses various functions into a kunai shape.
 
-### LIFE DEVICE
+#### LIFE Device
 This is a physical strength display device dedicated to infrared reception.
 It detects attacks by the kunai device and 93 full-color LEDs flash to inform the player of his or her fitness.
 
