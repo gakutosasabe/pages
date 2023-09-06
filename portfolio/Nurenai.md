@@ -15,4 +15,4 @@ It can also be linked to a smartphone to forcibly store and dry laundry.
 
 ### Media
 - テレ東 ワールドビジネスサテライト(WBS)内 トレたま　2017.02.13
-  - https://txbiz.tv-tokyo.co.jp/wbs/trend_tamago/126561
+  - [Link](https://txbiz.tv-tokyo.co.jp/wbs/trend_tamago/126561)
