@@ -1,5 +1,5 @@
 ---
-title: IoT Launfry Pole -Nurenai-
+title: Open CV Eye Tracking System
 layout: page
 permalink: /portfolio/Eyetracking
 hide : true
