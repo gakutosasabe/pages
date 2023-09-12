@@ -5,7 +5,9 @@ permalink: /portfolio/xsa
 hide : true
 ---
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/tHYvxFTPyQs?si=kwk94GOrfBximGW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow: hidden;">
+<iframe style= "position: absolute; top:0; left:0; width:100%; height:100%;"  width="560" height="315" src="https://www.youtube.com/embed/tHYvxFTPyQs?si=kwk94GOrfBximGW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ### Overview
 This is a shooting game device in which both adults and children pretend to be ninjas and throw invisible shurikens at each other. When you point the kunai device at the enemy and make a motion to throw shuriken, you can damage the enemy's device. You win when you reduce the enemy device's health to zero. You can play in various game modes such as individual, team and shogun battles.
