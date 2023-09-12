@@ -5,13 +5,14 @@ permalink: /portfolio/Gitter
 hide : true
 ---
 
-![Gitter](image/Gitter.png)
+<img src="image/Gitter.png" alt=" " class="image fit" />
 
 Have you ever thought "I can't keep practicing guitar, I wish the grass would grow everyday like Github..." Gitter is a system that uploads your guitar practice data to the web and visualizes it like Github. Gitter is a system that allows you to upload your guitar practice data to the web and visualize it like Github.
 
 The system is configured as follows
 
-![Alt text](image/GitterSystem.png)
+<img src="image/GitterSystem.png" alt=" " class="image fit" />
+
 
 The M5 Stack Cplus attached to the guitar stand determines whether the guitar is attached to the stand or not (if the guitar is removed, it is assumed that the guitar is practicing). The Node.js server converts the guitar detection information into information about when and for how long the guitar was practiced, and sends it to the front side written in React. The front end visualizes the guitar practice information like Github and other user-friendly information.
 
