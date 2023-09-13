@@ -5,7 +5,7 @@ permalink: /portfolio/pushup
 hide : true
 ---
 
-![Alt text](image/pushup.PNG)
+<img src="image/pushup.PNG" alt=" " class="image fit" />
 
 We created a world where you can do muscle training in VR Chat. Two types of muscle training, push-ups and squats, can be played. By watching the instructor avatar next to the player while performing the muscle training, the player can train with correct form. Also, get support from the girl avatar during muscle training to get through a tough workout! Training is detected from the position of the player's head on the muscle training machine.
 
