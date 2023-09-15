@@ -2,7 +2,7 @@
 title: About me
 layout: "page"
 icon: fa-user
-order: 3
+order: 2
 ---
 
 <a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
