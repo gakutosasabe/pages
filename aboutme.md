@@ -5,7 +5,7 @@ icon: fa-user
 order: 2
 ---
 
-<a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
+<img src="image/M5Scouter.png" alt=" " class="image fit" />
 
 ## __Personal Profile__
 GAKUTO SASABE was born in Japan, in 1992. He received the B.E. degree in electrical and electronic engineering.from the Tokyo University of
