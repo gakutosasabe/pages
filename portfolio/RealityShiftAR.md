@@ -23,13 +23,13 @@ The inspiration for this project came from Osamu Tezuka's "Phoenix" where the pr
 
 <img src="image/modulestructureENG.png" alt=" " class="image fit" />
 
-1. **Capture Video**: A camera mounted on a Raspberry Pi captures live video of the surroundings.
+1. __Capture Video__: A camera mounted on a Raspberry Pi captures live video of the surroundings.
 
-2. **Face Recognition and Cropping**: The captured video is processed using Mediapipe to recognize human faces. The facial regions are then cropped using OpenCV.
+2. __Face Recognition and Cropping__: The captured video is processed using Mediapipe to recognize human faces. The facial regions are then cropped using OpenCV.
 
-3. **Image Transmission and Generation**: The cropped facial images are sent via WiFi to a connected gaming laptop. The laptop uses Stable Diffusion, accessed through a Web API, to generate transformed images of the faces. These images are then sent back to the Raspberry Pi and stored locally.
+3. __Image Transmission and Generation__: The cropped facial images are sent via WiFi to a connected gaming laptop. The laptop uses Stable Diffusion, accessed through a Web API, to generate transformed images of the faces. These images are then sent back to the Raspberry Pi and stored locally.
 
-4. **Overlay and Display**: The generated images are overlaid onto the recognized facial regions in the video. This combined video is then displayed on a screen, creating an augmented reality (AR) effect.
+4. __Overlay and Display__: The generated images are overlaid onto the recognized facial regions in the video. This combined video is then displayed on a screen, creating an augmented reality (AR) effect.
 
 ## Demo
 ### Anime character(female)
