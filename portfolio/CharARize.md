@@ -1,5 +1,5 @@
 ---
-title: RealityShiftAR
+title: CharARize
 layout: page
 permalink: /portfolio/CharARize
 hide : true

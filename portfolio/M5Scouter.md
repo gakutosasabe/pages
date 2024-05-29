@@ -1,21 +1,38 @@
 ---
-title: Guitter Practice Management Application - Gitter -
+title: M5Scouter
 layout: page
-permalink: /portfolio/Gitter
+permalink: /portfolio/M5Scouter
 hide : true
 ---
 
-<img src="image/Gitter.png" alt=" " class="image fit" />
+<img src="image/M5ScouterCAD.png" alt=" " class="image fit" />
 
-Have you ever thought "I can't keep practicing guitar, I wish the grass would grow everyday like Github..." Gitter is a system that uploads your guitar practice data to the web and visualizes it like Github. Gitter is a system that allows you to upload your guitar practice data to the web and visualize it like Github.
+M5 Scouter is a custom-made AR device that I developed as a hobby project. This device was born from the idea of creating an AR device that is more affordable and accessible to everyone. (Link: ) Currently, the device features Running Vision, which displays running speed and direction to the destination in your field of vision while running, and Pomo Watch, which displays a Pomodoro technique timer in your field of vision.
 
-The system is configured as follows
+## System Overview
+M5 Scouter can be mounted on any pair of glasses. Additionally, it can be folded away when it obstructs your view.
+<img src="image/M5Scouter.png" alt=" " class="image fit" />
 
-<img src="image/GitterSystem.png" alt=" " class="image fit" />
+Here is what the view looks like when wearing the M5 Scouter.
+<img src="image/shikai.jpg" alt=" " class="image fit" />
 
+The device is operated by a combination of head direction while wearing the device and a push switch on the side of the device.
+<img src="image/control.png" alt=" " class="image fit" />
 
-The M5 Stack Cplus attached to the guitar stand determines whether the guitar is attached to the stand or not (if the guitar is removed, it is assumed that the guitar is practicing). The Node.js server converts the guitar detection information into information about when and for how long the guitar was practiced, and sends it to the front side written in React. The front end visualizes the guitar practice information like Github and other user-friendly information.
+It can be charged using a USB-C cable and lasts for about three hours on a single charge.
 
-Please check the video below to see it in action!
+<img src="image/oritatami.jpg" alt=" " class="image fit" />
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Gitterできた <a href="https://t.co/MeaPRU0RvL">pic.twitter.com/MeaPRU0RvL</a></p>&mdash; Gakuto Sasabe (@gakuto66) <a href="https://twitter.com/gakuto66/status/1646922593293967361?ref_src=twsrc%5Etfw">April 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+M5 Scouter is composed of an ATOMS3, a 500mAh LiPo battery, a TP4056 charging board, and a GPS unit. The installed ATOMS3 can be replaced with other ATOM series modules. For example, by installing an ATOM Echo instead, you can easily add sensors such as a microphone and speakers.
+
+<img src="image/M5Scouter(Inside).png" alt=" " class="image fit" />
+
+## Device function
+### Running Vision (Under Development)
+Running Vision is an application that informs you of your running speed and the direction to your destination while running. It was developed because we found it inconvenient to have to bring the screen of an existing smartwatch close to your eyes to check information. We are also developing a feature that warns you when you are running with poor posture.
+
+<img src="image/RunningVision.jpg" alt=" " class="image fit" />
+
+### Pomo Watch (Under Development)
+Pomo Watch is an application that displays a Pomodoro technique timer in your field of vision, which is known as a method to enhance productivity. We developed it because existing Pomodoro technique management tools on smartphones and PCs often lead to distraction by other applications.
+
