@@ -1,12 +1,12 @@
 ---
 title: RealityShiftAR
 layout: page
-permalink: /portfolio/RealityShiftAR
+permalink: /portfolio/CharARize
 hide : true
 ---
 
 
-
+<img src="image/charAize.png" alt=" " class="image fit" />
 <img src="image/RealityShiftAR.jpg" alt=" " class="image fit" />
 
 ## Background and Development Purpose
